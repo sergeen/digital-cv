@@ -1,6 +1,9 @@
 # My Digital CV
 
-Welcome to my digital CV! This project showcases my skills, experience, and achievements in a visually appealing and interactive manner. Built with React, it offers a modern and engaging way for LinkedIn recruiters to explore my professional profile. Let's dive in and discover what makes me a great fit for your team!
+Welcome to my digital CV! This project showcases my skills, experience, and achievements in a visually appealing and interactive manner.
+
+Built with React, it offers a modern and engaging way for LinkedIn recruiters to explore my professional profile. Let's dive in and discover what makes me a great fit for your team!
+
 To add color and styling to your digital CV, you can leverage the power of GitHub Flavored Markdown (GFM). GFM supports a variety of formatting options that can make your CV visually appealing. Here are a few examples:
 
 1. **Headers**: Use `#` to create headers of different sizes. For example, `# Introduction` creates a large header, while `## Skills` creates a smaller header.
@@ -23,5 +26,3 @@ To add color and styling to your digital CV, you can leverage the power of GitHu
   ```
 
 5. **Links**: Add clickable links using `[text](url)`. For example, `[LinkedIn](https://www.linkedin.com)` creates a link to your LinkedIn profile.
-
-Remember to experiment with these formatting options to create a visually appealing and professional digital CV. Good luck with your job search!
